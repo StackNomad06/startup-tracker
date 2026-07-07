@@ -1,3 +1,4 @@
 ###STARTUP TRACKER###
 
 
+Made some changes in Git local config. Let's check with a new commit.
